@@ -1,147 +1,81 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:7b2ff7,100:f107a3&height=260&text=THAI%20RATANAK&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=%3E_%20Backend%20%26%20Frontend%20Developer&descSize=20&descAlignY=68" width="100%" alt="Header" />
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Thai Ratanak</h1>
+<h3 align="center">Backend & Frontend</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=F107A3&center=true&vCenter=true&width=700&height=40&lines=%24+whoami+%E2%86%92+Thai+Ratanak+%F0%9F%87%B0%F0%9F%87%AD;%24+stack+%E2%86%92+Spring+Boot+%2B+Next.js+%2B+PostgreSQL;%24+mission+%E2%86%92+build+things+that+matter;%24+status+%E2%86%92+Learn+hard%2C+success+soon+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ratanak-IT&color=f107a3&style=for-the-badge&label=VIEWS" alt="Views" />
-  <img src="https://img.shields.io/github/followers/Ratanak-IT?style=for-the-badge&color=7b2ff7&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/ISTAD-Student-0d1117?style=for-the-badge&logo=academia&logoColor=f107a3" alt="ISTAD" />
-  <img src="https://img.shields.io/badge/Cambodia-🇰🇭-0d1117?style=for-the-badge" alt="Cambodia" />
-</p>
-
----
-
-## 🖥️ `~/about-me`
-
-```bash
-ratanak@istad:~$ whoami
-Thai Ratanak, Backend & Frontend Developer
-
-ratanak@istad:~$ cat focus.txt
-→ REST APIs with Spring Boot
-→ Modern web apps with Next.js + TypeScript
-→ Simple, clean, maintainable code
-
-ratanak@istad:~$ cat currently.txt
-→ Building a University Management System (UMS)
-→ Practicing robotics logic for Kibo-RPC (Astrobee)
-→ Learning Docker & better system design
-
-ratanak@istad:~$ echo $MOTTO
-Learn hard, success soon.
-```
-
-## ⚡ Tech Arsenal
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-## 🚀 Projects
-
-| 🧩 Project | 📝 What it does | 🛠️ Stack |
-| :-- | :-- | :-- |
-| **UMS API** | University Management System backend | `Spring Boot` `PostgreSQL` |
-| **iShop** | E-commerce frontend, CRUD and file upload | `Next.js` `TypeScript` `RTK Query` |
-| **9in1 Dashboard** | Multi-feature admin dashboard | `Next.js 15` `Tailwind` |
-| **POS Platform** | Social commerce + POS board for businesses | `Web` `PWA` |
-| **watchdog.py** | Drone battery and waypoint safety simulation | `Python` |
-
-<!-- Pinned repo cards: replace REPO_NAME with a real repository name
-<p align="center">
-  <a href="https://github.com/Ratanak-IT/REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ratanak-IT&repo=REPO_NAME&theme=synthwave&hide_border=true" />
+<!-- <p align="center">
+  <a href="https://www.facebook.com/ratanak0168">
+    <img width="150px" height="150px" src="https://scontent.fpnh10-1.fna.fbcdn.net/v/t39.30808-6/605117120_1493089618454779_5480434149798126236_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGZqBqUqwrEJ9x0JAb_gy8DIzTPUiUOticjNM9SJQ62J0YeggtIMD6xGajVItKixH9ChZLRzdthpoz8qry0gW9n&_nc_ohc=a4fXsQNb2NgQ7kNvwG_enyf&_nc_oc=Adn-xA_z4DtHZri9KjqablKMvHNA6q8OtYVTMk2ryx72Krf-faU_BlaZ8DYtV7Qi3oc&_nc_zt=23&_nc_ht=scontent.fpnh10-1.fna&_nc_gid=vMKAeBGL1_21gQh7w8fi3g&oh=00_AfvwQ2hye0scj6-Q4q9pC1tnmsReWh2fI-KKT4cXz6o1AA&oe=698CE9E3" alt="Profile" />
   </a>
-</p>
--->
+</p> -->
 
-## 🛰️ Mission Log: Kibo-RPC
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-```text
-[MISSION] Astrobee navigation test
-Waypoint 1/10  | Battery: 97.8%
-Waypoint 2/10  | Battery: 95.1%
-...
-Waypoint 6/10  | Battery: 78.9%
-[CAUTION] Battery below 80%
-Waypoint 7/10  | Battery: 74.6%
-[EMERGENCY RETURN TRIGGERED]
-```
+## 📌 About Me
+- Student at ISTAD , learning❤️
 
-> Practicing safety logic, time budgets and retry strategies for JAXA's Kibo Robot Programming Challenge.
+## 🧠 My Focus Areas
+- Web developer & Spring Microsoft
 
-## 🎯 Roadmap
-
-- [x] Build REST APIs with Spring Boot
-- [x] Build Next.js apps with TypeScript
-- [ ] Deploy projects with Docker
-- [ ] Join Kibo-RPC and finish a full mission run
-- [ ] Contribute to an open-source project
-- [ ] Write technical posts and tutorials
-
-## 📊 GitHub Stats
-
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Ratanak-IT&show_icons=true&theme=synthwave&hide_border=true&border_radius=12" alt="Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratanak-IT&layout=compact&theme=synthwave&hide_border=true&border_radius=12" alt="Top languages" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Ratanak-IT&theme=nightowl&radius=10" alt="Ratanak-IT's Activity Graph" />
 </p>
+
+## 🛠️ Languages & Tools
+
+> ## Programming Languages
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ratanak-IT&theme=synthwave&hide_border=true&border_radius=12" alt="Streak" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" />
 </p>
+
+> ## Frontend
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ratanak-IT&theme=dracula&hide_border=true&radius=12" alt="Activity graph" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" />
 </p>
 
-## 🏆 Trophies
-
+> ## Backend
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ratanak-IT&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="48" height="48" />
 </p>
 
-## 🎲 Fun Facts
-
-- 🇰🇭 Building tools with a Cambodian university context in mind
-- 🛰️ Dreams of seeing code run on a real robot in space
-- 🌙 Best code is written when it's quiet
-- 🤝 Always happy to learn from others
-
-## 📫 Let's Connect
-
+> ## Database
 <p align="center">
-  <a href="https://plovrean.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-f107a3?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:ratanak1intel@gmail.com"><img src="https://img.shields.io/badge/Email-7b2ff7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@Ratanak-IT"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://x.com/ZaneeDoura"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" />
 </p>
 
+> ## DevOps & Cloud
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" />
 </p>
+
+> ## Tools
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" />
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" />
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://x.com/ZaneeDoura" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40"/></a>
+  <a href="https://wa.me/964735981" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40"/></a>
+  <a href="https://www.youtube.com/@Ratanak-IT" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="Youtube" width="40" height="40"/></a>
+  <a href="mailto:ratanak1intel@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40"/></a>
+  <a href="https://plovrean.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40"/></a>
+</p>
+
+## 💬 Quote
+> Learn hard, success soon.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ratanak-IT/Ratanak-IT/output/github-snake-dark.svg" />
@@ -149,4 +83,6 @@ Waypoint 7/10  | Battery: 74.6%
   <img alt="github-snake" src="https://raw.githubusercontent.com/Ratanak-IT/Ratanak-IT/output/github-snake.svg" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:f107a3&height=120&section=footer" width="100%" alt="Footer" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
