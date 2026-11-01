@@ -1,135 +1,81 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:7b2ff7,100:f107a3&height=280&text=THAI%20RATANAK&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Backend%20%C2%B7%20Frontend%20%C2%B7%20Web%20Developer&descSize=22&descAlignY=66" width="100%" alt="Header" />
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Thai Ratanak</h1>
+<h3 align="center">Backend & Frontend</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=F107A3&center=true&vCenter=true&width=760&height=45&lines=%24+Building+powerful+REST+APIs+%E2%9A%99%EF%B8%8F;%24+Crafting+modern+web+experiences+%E2%9C%A8;%24+From+database+to+deployment+%F0%9F%9A%80;%24+Learn+hard%2C+success+soon+%F0%9F%92%AA" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ratanak-IT&color=f107a3&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
-  <img src="https://img.shields.io/github/followers/Ratanak-IT?style=for-the-badge&color=7b2ff7&logo=github&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/badge/ISTAD-STUDENT-0d1117?style=for-the-badge&logo=academia&logoColor=f107a3" alt="ISTAD" />
-  <img src="https://img.shields.io/badge/CAMBODIA-%F0%9F%87%B0%F0%9F%87%AD-0d1117?style=for-the-badge" alt="Cambodia" />
-</p>
-
-<p align="center">
-  <a href="https://plovrean.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_PORTFOLIO-f107a3?style=for-the-badge" /></a>
-  <a href="mailto:ratanak1intel@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7_EMAIL-7b2ff7?style=for-the-badge" /></a>
-  <a href="https://www.youtube.com/@Ratanak-IT"><img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F_YOUTUBE-ff0000?style=for-the-badge" /></a>
-  <a href="https://x.com/ZaneeDoura"><img src="https://img.shields.io/badge/%F0%9D%95%8F_TWITTER-000000?style=for-the-badge" /></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b2ff7,100:f107a3&height=3" width="100%" />
-
-## 👨‍💻 About Me
-
-```bash
-ratanak@istad:~$ whoami
-Thai Ratanak, Backend & Frontend Developer
-
-ratanak@istad:~$ cat focus.txt
-→ REST APIs & business logic with Spring Boot
-→ Fast, modern web apps with Next.js + TypeScript
-→ Clean, simple and maintainable code
-
-ratanak@istad:~$ cat currently.txt
-→ Building a University Management System (UMS)
-→ Learning Docker & better deployment workflows
-
-ratanak@istad:~$ echo $MOTTO
-Learn hard, success soon.
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b2ff7,100:f107a3&height=3" width="100%" />
-
-## ⚡ Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="170"><b>🎨 Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,bootstrap&perline=8" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>⚙️ Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,nodejs&perline=8" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🌐 Web</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,vite&perline=8" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🗄️ Database</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres&perline=8" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🚀 Deploy & DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,vercel,git,github&perline=8" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🧰 Tools & Design</b></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode,postman,figma&perline=8" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>💻 Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,java,cpp&perline=8" /></td>
-  </tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b2ff7,100:f107a3&height=3" width="100%" />
-
-## 🚀 Featured Projects
-
-| 🧩 Project | 📝 Description | 🛠️ Built With |
-| :-- | :-- | :-- |
-| **UMS API** | University Management System backend | `Spring Boot` `PostgreSQL` |
-| **iShop** | E-commerce frontend with CRUD and file upload | `Next.js` `TypeScript` `RTK Query` |
-| **9in1 Dashboard** | Multi-feature admin dashboard | `Next.js 15` `Tailwind CSS` |
-| **POS Platform** | Social commerce and POS board for business owners | `Web` `PWA` |
-
-<!-- Pinned repo cards: replace REPO_NAME with a real repository name, then remove the comment markers
-<p align="center">
-  <a href="https://github.com/Ratanak-IT/REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ratanak-IT&repo=REPO_NAME&theme=synthwave&hide_border=true&border_radius=12" />
+<!-- <p align="center">
+  <a href="https://www.facebook.com/ratanak0168">
+    <img width="150px" height="150px" src="https://scontent.fpnh10-1.fna.fbcdn.net/v/t39.30808-6/605117120_1493089618454779_5480434149798126236_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGZqBqUqwrEJ9x0JAb_gy8DIzTPUiUOticjNM9SJQ62J0YeggtIMD6xGajVItKixH9ChZLRzdthpoz8qry0gW9n&_nc_ohc=a4fXsQNb2NgQ7kNvwG_enyf&_nc_oc=Adn-xA_z4DtHZri9KjqablKMvHNA6q8OtYVTMk2ryx72Krf-faU_BlaZ8DYtV7Qi3oc&_nc_zt=23&_nc_ht=scontent.fpnh10-1.fna&_nc_gid=vMKAeBGL1_21gQh7w8fi3g&oh=00_AfvwQ2hye0scj6-Q4q9pC1tnmsReWh2fI-KKT4cXz6o1AA&oe=698CE9E3" alt="Profile" />
   </a>
-</p>
--->
+</p> -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b2ff7,100:f107a3&height=3" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-## 📊 GitHub Analytics
+## 📌 About Me
+- Student at ISTAD , learning❤️
 
+## 🧠 My Focus Areas
+- Web developer & Spring Microsoft
+
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Ratanak-IT&show_icons=true&theme=synthwave&hide_border=true&border_radius=12&count_private=true" alt="Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratanak-IT&layout=compact&theme=synthwave&hide_border=true&border_radius=12" alt="Top languages" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Ratanak-IT&theme=nightowl&radius=10" alt="Ratanak-IT's Activity Graph" />
 </p>
 
+## 🛠️ Languages & Tools
+
+> ## Programming Languages
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ratanak-IT&theme=synthwave&hide_border=true&border_radius=12" alt="Streak" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" />
 </p>
 
+> ## Frontend
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ratanak-IT&theme=synthwave" width="49%" alt="Profile details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ratanak-IT&theme=synthwave" width="49%" alt="Repos per language" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" />
 </p>
+
+> ## Backend
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ratanak-IT&theme=synthwave" width="49%" alt="Most commit language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ratanak-IT&theme=synthwave&utcOffset=7" width="49%" alt="Productive time" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="48" height="48" />
 </p>
 
+> ## Database
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ratanak-IT&theme=dracula&hide_border=true&radius=12&area=true" alt="Activity graph" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7b2ff7,100:f107a3&height=3" width="100%" />
-
-## 🏆 Trophies
-
+> ## DevOps & Cloud
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ratanak-IT&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" />
 </p>
 
+> ## Tools
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" />
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" />
 </p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://x.com/ZaneeDoura" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40"/></a>
+  <a href="https://wa.me/964735981" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40"/></a>
+  <a href="https://www.youtube.com/@Ratanak-IT" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="Youtube" width="40" height="40"/></a>
+  <a href="mailto:ratanak1intel@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40"/></a>
+  <a href="https://plovrean.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40"/></a>
+</p>
+
+## 💬 Quote
+> Learn hard, success soon.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ratanak-IT/Ratanak-IT/output/github-snake-dark.svg" />
@@ -137,4 +83,6 @@ Learn hard, success soon.
   <img alt="github-snake" src="https://raw.githubusercontent.com/Ratanak-IT/Ratanak-IT/output/github-snake.svg" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:f107a3&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=70" width="100%" alt="Footer" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
